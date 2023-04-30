@@ -1,0 +1,19 @@
+## FruorStudio
+
+We are an IT engineer and a web director, respectively, but we do not do IT engineering and web direction. Furor Studio belongs to [@SQuadrillion](https://github.com/SQuadrillion).
+
+## Release 
+
+### TRPG
+
+- [Talto](https://talto.cc/)
+- [Booth](https://fruor-studio.booth.pm/)
+
+![image](https://user-images.githubusercontent.com/7000978/235330619-b443da5f-c372-4f71-aaef-2525ab014aa9.png)
+
+
+### T-shirt
+
+- [Suzuri](https://suzuri.jp/FruorWorks)
+
+![image](https://user-images.githubusercontent.com/7000978/235330598-da202bce-7b69-427d-8049-db9aea2c29d2.png)
