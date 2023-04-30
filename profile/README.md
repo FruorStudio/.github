@@ -9,8 +9,7 @@ We are an IT engineer and a web director, respectively, but we do not do IT engi
 - [Talto](https://talto.cc/)
 - [Booth](https://fruor-studio.booth.pm/)
 
-![image](https://user-images.githubusercontent.com/7000978/235330619-b443da5f-c372-4f71-aaef-2525ab014aa9.png)
-
+![image](https://user-images.githubusercontent.com/7000978/235330648-44751f6e-02bc-48cb-87df-fc7805742bb5.png)
 
 ### T-shirt
 
