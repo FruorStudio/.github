@@ -1,4 +1,4 @@
-## FruorStudio
+## Fruor Studio
 
 We are an IT engineer and a web director, respectively, but we do not do IT engineering and web direction. Furor Studio belongs to [@SQuadrillion](https://github.com/SQuadrillion).
 
